@@ -1,16 +1,23 @@
 body{
     background-color: #97B299;
     color: black;
-    background: url(images/green-wallpaper.jpg ) no-repeat center center fixed;
-
+    background: url(images/green-wallpaper.jpg ) no-repeat  center center fixed;
 }
+
+img{    
+    filter: grayscale();
+}
+
+
 
 h2 {
     font-weight: bolder;
     margin-left: 700px;
     
 }
-
+h1{
+    
+}
 #banner {   
     margin-left: 600px;
 }
@@ -39,6 +46,7 @@ table, th, td{
     margin-right: auto;
     text-align: center;
     border : 2px solid green;
+    /* word-spacing: 300px; */
 
 }
   
@@ -59,5 +67,6 @@ li {
     list-style-position: inside;
     padding-right: 1cm;
     margin: auto;
+    
    
 }
