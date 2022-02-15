@@ -6,10 +6,6 @@ Assignment for course : Web App
 2. If you want to view code : Open that folder on an editor such as Visual Studio Code
    Else if you want to view the web page : open index.html from your PC
 
-3. TO VIEW SCREENSHOTS - 
-   If you view the screenshots on github, the view will not be clear.
-   Instead, right click on the image after you open on github.
-   Click open image in new tab.
    
    ![image](https://user-images.githubusercontent.com/43026478/154149760-9f92564b-1699-486c-8786-2572ba7bbc10.png)
 
