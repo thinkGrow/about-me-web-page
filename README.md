@@ -11,6 +11,11 @@ Assignment for course : Web App
    Instead, right click on the image after you open on github.
    Click open image in new tab.
    
+   ![image](https://user-images.githubusercontent.com/43026478/154149760-9f92564b-1699-486c-8786-2572ba7bbc10.png)
+
+   ![image](https://user-images.githubusercontent.com/43026478/154149805-9263eaa4-e132-4a1b-8e61-be5f56725c48.png)
+
+   
    
 
 Cheers!
