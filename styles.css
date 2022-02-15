@@ -1,0 +1,63 @@
+body{
+    background-color: #97B299;
+    color: black;
+    background: url(images/green-wallpaper.jpg ) no-repeat center center fixed;
+
+}
+
+h2 {
+    font-weight: bolder;
+    margin-left: 700px;
+    
+}
+
+#banner {   
+    margin-left: 600px;
+}
+
+h3 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    line-height: 10px;
+    text-align: center;
+    color: black;
+    
+}
+
+img {
+    float: left;
+    border-radius: 50%;}
+
+p {
+    padding-top: 0 px;
+    margin-top: 0 px;
+    /* line-height: 10px; */
+    text-align: center;}
+
+table, th, td{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border : 2px solid green;
+
+}
+  
+
+footer {
+    float: right;
+    font-weight: 900;
+    padding-bottom: 7px;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+li {   
+    list-style-position: inside;
+    padding-right: 1cm;
+    margin: auto;
+   
+}
